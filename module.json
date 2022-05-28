@@ -1,0 +1,12 @@
+{
+  "id": "gallery",
+  "name": "Gallery",
+  "description": "A module for HumHub providing a hierarchical order of spaces.",
+  "keywords": ["photo", "hierarchy", "projects", "space"],
+  "version": "0.1",
+  "humhub": {
+    "minVersion": "1.2"
+  },
+  "homepage": "https://github.com/nicovitt/gallery",
+  "screenshots": []
+}
